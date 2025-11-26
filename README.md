@@ -86,7 +86,7 @@ O app utiliza **Hive**, um banco de dados NoSQL leve e rápido para Flutter:
 
 1. **Clone o repositório**
 ```bash
-git clone https://github.com/seu-usuario/shorten_my_link.git
+git clone https://github.com/camposmichel/shorten-my-link.git
 cd shorten_my_link
 ```
 
